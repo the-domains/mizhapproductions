@@ -1,0 +1,28 @@
+name: mizhapproductions
+favicon: null
+layout_spectrum: 0.6005159341730177
+typography_spectrum: 0.39058210211806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3086124835535884
+  lightness: 0.3278925665654242
+  saturation: 0.7767992233857512
+  rhythmicContrast: 0.693834574893117
+purpose: []
